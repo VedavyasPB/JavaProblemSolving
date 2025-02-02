@@ -1,6 +1,5 @@
 package com.veda.javaprograms.strings;
 
-import java.util.Iterator;
 import java.util.Scanner;
 
 public class MaxOccuranceFinder {
@@ -25,5 +24,4 @@ public class MaxOccuranceFinder {
 			System.out.println("The max occuring character is: " + (char) m);
 		}
 	}
-
 }
